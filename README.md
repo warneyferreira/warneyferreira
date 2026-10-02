@@ -63,31 +63,6 @@ Plataforma de monitoramento que conecta sensores de solo a análise preditiva. C
 
 Mais detalhes no [portfólio](https://www.warney.dev).
 
-## GitHub
-
-<div align="center">
-  <a href="https://github-stats-extended.vercel.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=warneyferreira&show_icons=true&theme=dark_github&hide_border=true" />
-      <img height="165" src="https://github-stats-extended.vercel.app/api?username=warneyferreira&show_icons=true&theme=light_github&hide_border=true" alt="Estatísticas públicas do GitHub" />
-    </picture>
-  </a>
-  <a href="https://github-stats-extended.vercel.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=warneyferreira&layout=compact&theme=dark_github&hide_border=true" />
-      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=warneyferreira&layout=compact&theme=light_github&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/warneyferreira/warneyferreira/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/warneyferreira/warneyferreira/output/github-snake.svg" />
-    <img alt="Animação da atividade de contribuições no GitHub" src="https://raw.githubusercontent.com/warneyferreira/warneyferreira/output/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 <div align="center">
